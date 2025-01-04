@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: math
+    name: yuan
     env: python
     region: Oregon
     plan: free
