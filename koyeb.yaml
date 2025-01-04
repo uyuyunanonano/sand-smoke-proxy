@@ -1,6 +1,6 @@
-name: math
+name: yuan
 services:
-  - name: math
+  - name: yuan
     type: web
     env: python
     region: Oregon
